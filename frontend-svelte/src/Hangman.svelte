@@ -140,19 +140,6 @@
         border-color: #ff6a00;
     }
 
-    .status-playing {
-        color: #007bff;
-    }
-
-    .status-won {
-        color: #28a745;
-        font-weight: bold;
-    }
-
-    .status-lost {
-        color: #dc3545;
-        font-weight: bold;
-    }
     .word {
     font-family: "Courier New", Courier, monospace; /* Monospace for consistent spacing */
     letter-spacing: 0.3em; /* Add spacing between underscores */
